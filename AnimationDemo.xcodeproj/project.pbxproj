@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B65072361F24DBD500F8DADE /* SpringAnimationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B65072351F24DBD500F8DADE /* SpringAnimationViewController.swift */; };
+		B65072381F24E74200F8DADE /* TransitionAnimationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B65072371F24E74200F8DADE /* TransitionAnimationViewController.swift */; };
+		B68F30361F28AC3F007DF418 /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68F30351F28AC3F007DF418 /* NewViewController.swift */; };
 		B6A142951F07E4510092614E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6A142941F07E4510092614E /* AppDelegate.swift */; };
 		B6A142971F07E4510092614E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6A142961F07E4510092614E /* ViewController.swift */; };
 		B6A1429A1F07E4510092614E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6A142981F07E4510092614E /* Main.storyboard */; };
@@ -15,6 +18,9 @@
 		B6A142A21F07E4520092614E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B6A142A01F07E4520092614E /* LaunchScreen.storyboard */; };
 		B6A142AD1F07E4520092614E /* AnimationDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6A142AC1F07E4520092614E /* AnimationDemoTests.swift */; };
 		B6A142B81F07E4520092614E /* AnimationDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6A142B71F07E4520092614E /* AnimationDemoUITests.swift */; };
+		B6A1BD1420BD4FB600CBEDD2 /* Test2.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6A1BD1320BD4FB600CBEDD2 /* Test2.swift */; };
+		B6E0FAA51F39AA1500A83AD6 /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6E0FAA41F39AA1500A83AD6 /* TestViewController.swift */; };
+		B6F341161F45C282005947D7 /* Test1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6F341151F45C282005947D7 /* Test1ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +41,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B65072351F24DBD500F8DADE /* SpringAnimationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpringAnimationViewController.swift; sourceTree = "<group>"; };
+		B65072371F24E74200F8DADE /* TransitionAnimationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TransitionAnimationViewController.swift; sourceTree = "<group>"; };
+		B68F30351F28AC3F007DF418 /* NewViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 		B6A142911F07E4510092614E /* AnimationDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimationDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6A142941F07E4510092614E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B6A142961F07E4510092614E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +58,9 @@
 		B6A142B31F07E4520092614E /* AnimationDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimationDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6A142B71F07E4520092614E /* AnimationDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationDemoUITests.swift; sourceTree = "<group>"; };
 		B6A142B91F07E4520092614E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B6A1BD1320BD4FB600CBEDD2 /* Test2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test2.swift; sourceTree = "<group>"; };
+		B6E0FAA41F39AA1500A83AD6 /* TestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
+		B6F341151F45C282005947D7 /* Test1ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Test1ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +113,12 @@
 			children = (
 				B6A142941F07E4510092614E /* AppDelegate.swift */,
 				B6A142961F07E4510092614E /* ViewController.swift */,
+				B6E0FAA41F39AA1500A83AD6 /* TestViewController.swift */,
+				B6A1BD1320BD4FB600CBEDD2 /* Test2.swift */,
+				B65072351F24DBD500F8DADE /* SpringAnimationViewController.swift */,
+				B65072371F24E74200F8DADE /* TransitionAnimationViewController.swift */,
+				B68F30351F28AC3F007DF418 /* NewViewController.swift */,
+				B6F341151F45C282005947D7 /* Test1ViewController.swift */,
 				B6A142981F07E4510092614E /* Main.storyboard */,
 				B6A1429E1F07E4520092614E /* Assets.xcassets */,
 				B6A142A01F07E4520092614E /* LaunchScreen.storyboard */,
@@ -265,7 +283,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B6E0FAA51F39AA1500A83AD6 /* TestViewController.swift in Sources */,
+				B65072361F24DBD500F8DADE /* SpringAnimationViewController.swift in Sources */,
+				B65072381F24E74200F8DADE /* TransitionAnimationViewController.swift in Sources */,
+				B6A1BD1420BD4FB600CBEDD2 /* Test2.swift in Sources */,
 				B6A1429D1F07E4520092614E /* AnimationDemo.xcdatamodeld in Sources */,
+				B6F341161F45C282005947D7 /* Test1ViewController.swift in Sources */,
+				B68F30361F28AC3F007DF418 /* NewViewController.swift in Sources */,
 				B6A142971F07E4510092614E /* ViewController.swift in Sources */,
 				B6A142951F07E4510092614E /* AppDelegate.swift in Sources */,
 			);
@@ -520,6 +544,7 @@
 				B6A142BE1F07E4520092614E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B6A142BF1F07E4520092614E /* Build configuration list for PBXNativeTarget "AnimationDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +553,7 @@
 				B6A142C11F07E4520092614E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B6A142C21F07E4520092614E /* Build configuration list for PBXNativeTarget "AnimationDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -536,6 +562,7 @@
 				B6A142C41F07E4520092614E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
